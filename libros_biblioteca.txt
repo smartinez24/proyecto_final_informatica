@@ -5,5 +5,3 @@ Don Quijote de la Mancha;Miguel de Cervantes;978-84-9759-261-4;Anaya;1605;863;20
 Harry Potter y la piedra filosofal;J.K. Rowling;978-84-9838-058-4;Salamandra;1997;223;2023-05-12;60;3
 La sombra del viento;Carlos Ruiz Zafón;978-84-08-06925-9;Planeta;2001;568;2023-06-30;45;6
 Matar a un ruiseñor;Harper Lee;978-84-206-7203-7;Alianza Editorial;1960;320;2023-07-18;35;4
-Charlie Brown;Carlos Martinez;1000378549;eleditorial;2020;298;11/10/2003;1;1
-Harry P;Danna V;500;ele;2020;430;13/10/2013;11;5
