@@ -12,7 +12,6 @@ Proyecto de informática sobre programa para gestión de libros de una bibliotec
   <a href = 'https://www.linkedin.com/in/carlos-martinez08'>
     <img src = 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt = 'LinkedIn Badge' />
 
-<div id ='badges' align = 'center'>
   <a href = 'https://support.apple.com/kb/SP753?locale=es_ES'>
     <img src = 'https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white' alt = 'LinkedIn Badge' />
   </a>
