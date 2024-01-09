@@ -1,5 +1,4 @@
-# Proyecto final informática
-Proyecto de informática sobre programa para gestión de libros de una biblioteca. 
+# Proyecto final de informática
 
 <div id = "header" align = "center">
   <img = src = "https://i.pinimg.com/564x/e4/56/94/e4569443714172f2773aea229195685c.jpg" width = "500" />
