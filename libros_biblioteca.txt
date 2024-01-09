@@ -1,0 +1,9 @@
+El señor de los anillos;J.R.R. Tolkien;978-84-450-7559-6;Minotauro;2001;1200;2023-01-10;50;5
+Cien años de soledad;Gabriel García Márquez;978-84-376-0231-4;Sudamericana;1982;432;2023-02-05;30;2
+1984;George Orwell;978-0-452-28423-4;Penguin Books;1949;328;2023-03-15;25;8
+Don Quijote de la Mancha;Miguel de Cervantes;978-84-9759-261-4;Anaya;1605;863;2023-04-20;40;12
+Harry Potter y la piedra filosofal;J.K. Rowling;978-84-9838-058-4;Salamandra;1997;223;2023-05-12;60;3
+La sombra del viento;Carlos Ruiz Zafón;978-84-08-06925-9;Planeta;2001;568;2023-06-30;45;6
+Matar a un ruiseñor;Harper Lee;978-84-206-7203-7;Alianza Editorial;1960;320;2023-07-18;35;4
+Charlie Brown;Carlos Martinez;1000378549;eleditorial;2020;298;11/10/2003;1;1
+Harry P;Danna V;500;ele;2020;430;13/10/2013;11;5
