@@ -19,6 +19,7 @@
 ---
 ### Contexto
 ¿Qué tan complejo puede ser cambiar de lenguaje de programación? 
+
 Aún recuerdo que mientras cursaba el bootcamp de ciencia de datos en Henry, muchos maestros decían que cuando aprendes un lenguaje de programación, es mucho más fácil adaptarte a otros; cambia la sintaxis, pero tu lógica se mantiene. 
 
 Al principio, con el cambio de sistema operativo de Windows a Mac, no entendía ni como compilar el código, abrir la terminal, ni usar VSC. Fue un cambio complejo ya que, en todos los sentidos informáticos, toda mi vida había usado Windows y Android. Por más sencillo que pareciera, para mi estaba siendo bastante complejo, más con la adaptación del país, de la virtualidad a la presencialidad, entre otras cosas. 
