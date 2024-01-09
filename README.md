@@ -38,7 +38,9 @@ Las tareas que debe ejecutar el programa son:
 -	Permitir eliminar libros por desgaste. 
 -	Llevar un conteo de libros disponibles en la biblioteca y libros que pueden ser y/o están prestados. 
 
-Cada una de estas tareas se realizan por medio de la ejecución de 5 funciones, que están almacenadas en un ciclo 'do-while', que proporciona un menú al administrador de la biblioteca para saber que tarea desea realizar. Una vez realizada una tarea, el menú aparece nuevamente para saber si ha de finalizar el programa o desea realizar una tarea adicional. Al finalizar el programa se crea un fichero (.txt) que permite almacenar toda la información de los libros. Cuando el programa se ejecute de nuevo, se abrirá ese mismo fichero, con el fin de cargar la información y manejar todo sobre la misma base de datos. 
+Cada una de estas tareas se realizan por medio de la ejecución de 5 funciones, que están almacenadas en un ciclo 'do-while', que proporciona un menú al administrador de la biblioteca para saber que tarea desea realizar. Una vez realizada una tarea, el menú aparece nuevamente para saber si ha de finalizar el programa o desea realizar una tarea adicional. Al finalizar el programa se crea un fichero (.txt) que permite almacenar toda la información de los libros. Cuando el programa se ejecute de nuevo, se abrirá ese mismo fichero, con el fin de cargar la información y manejar todo sobre la misma base de datos.
+
+Nota: Esto es un breve resumen del trabajo general. En el [repositorio](https://github.com/smartinez24/proyecto_final_informatica.git), se encuentra un archivo PDF que permite tener más claridad de los puntos de evaluación y los requerimientos del programa.
 
 ---
   
